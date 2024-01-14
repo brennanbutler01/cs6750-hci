@@ -49,6 +49,25 @@ How to measure usability?
 1. We design interactions, not interfaces.
 2. When designing interactions, you are not the user!
 
+### CHI of Teaching Online - Chapter 5
+1. The classroom is now a user interface itself. Learning design and user interface design both require rapid feedback.
+2. Flexibility - design should accomodate a wide range of individual preferences and abilities. actions should be tailored. 
+    1. Geographic flexibility - students can study from anywhere. ties into equity.
+    2. Temporal flexibility - can take classes when you want.
+    3. Preference flexibility - can watch on your own time, skip things if needed.
+3. Equity - should be accessible, no stigmitization. 
+    1. financial - not expensive
+    2. admissions - no limit on enrollment.
+    3. anonymity - can choose what you want to reveal.
+4. Consistency - users shouldnt have to wonder whether words, actions, situations mean the same thing. should follow conventions
+    1. assignment cadence - everything always available. weekly deliverables
+    2. announcement - weekly lectures w/ expectations.
+5. distributed cognition
+    1. offloading through announcements - use announcements to push info to students. students can always pull information from online materials.
+    2. offloading through documentation - using the forums and discussions to help answer questions
+    3. offloading through assessment design - open note, open book, open form testing
+
+
 ---
 
 ## 1.3 - Exploring HCI
