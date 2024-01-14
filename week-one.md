@@ -1,4 +1,28 @@
 # CS6750 - HCI - Week One
+
+## Table of Contents
+1. [1.1 Intro to HCI](#1.1-intro-to-hci)
+2. [1.2 Intro to CS6750](#1.2-intro-to-cs6750)
+3. [1.3 Exploring HCI](#1.3-exploring-hci)
+
+---
+## 1.1 Intro to HCI
+
+### Design of Everyday Things Chapter 1
+1. Two most important characteristics of good design:
+    1. Discoverability - is it possible to figure out what actions are possible
+    2. Understanding - what does it mean?
+2. Interaction Design - how people interact with technology. enhance understanding of what can be done, what is happening, and what has occurred.
+3. Experience Design - designing products, processes, services with a focus on the quality and enjoyment of the total experience.
+4. Need Human-centered design, put human needs, capabilities, and behavior first. Need good communication. Ensure that designs match the needs and capabilities of the people who will use it.
+    * Avoid specifying the problem as long as possible - iterate upon repeated approximations.
+5. Affordances - relationship b/w physical object and a person (is for something). not a property but a relationship - needs object + agent. affordances should be discoverable - percievable, but can be invisible. determines what actions are possible
+6. Signifiers communicate where the action should take place. communicates the purpose, structure, operation of device.
+7. Mapping - the relationship between two sets of things. should be a mapping between a control, action, and the intended result. grouping and proximity, should be natural. these can be culturally specific. works best when set of actions is visible and controls exploit natural mapping. need care, planning, thought, and an understanding of how people behave.
+8. Feedback - need a way to let you know if the system is working on the request. should be immediate and informative - but not to omuch. feedback should be planned.
+9. Conceptual model - explanation of how something looks. mental models of how things work. can be competing
+10. System Image - the combined total of information available to us about a product, system. needs to be more complete, coherent.
+11. Paradox of tech - as we get more features packed into a device that make it more useful, it gets harder to learn and use.
 ---
 ## 1.2 Intro to CS6750
 Three Learning Goals:
@@ -17,3 +41,34 @@ How to measure usability?
 2. When designing interactions, you are not the user!
 
 ---
+
+## 1.3 - Exploring HCI
+
+Three areas:
+1. Technologies - new technologies that power new and interesting user interactions
+2. Domains - pre-existing areas that might have a lot of potential for exploring to be disrupted by new technologies
+3. Ideas - theories about way people interact with interfaces
+
+
+### Technologies
+1. Virtual Reality - replace real world stimuli with own input. commerce, tourism, art, education, video games
+2. Augmented Reality - complements what you see in the real world, doesn't just replace them.
+3. Ubiquitous Computing - IoT. computers are everywhere. wearable technologies.
+4. Robots - how to ensure robots don't harm humans. how to deal with loss of human work.
+5. Mobile - mobile first world. users are distracted, less screen real estate, hard to do some kind of input.
+
+### Ideas
+1. Context Sensitive Computing - computers must be aware of context (different google maps and spotify views when driving).
+2. Gesture based interaction - computers should interpret and understand gestures. 
+3. pen/touch based - used for art
+4. information visualization - with so much data, we need a way to understand it. computers let us re-represent data in complex ways.
+5. CSCW - Computer support cooperative work - computers to support people working together. same/different times/places.
+6. Social Computing - emojis for instance, wikipedia
+
+
+### Domains
+1. Special needs - disabilities, aging, injuries
+2. Education - should things always be as easy as possible? need some learning experiences at times. limit and focus cognitive load.
+3. Healthcare -vr, wearable devices, context sensitive computing. vr for therapy
+4. Security - need security measures that are usable, so people use it. make actions easier to conform.
+5. Games - logical mapping between actions/effects. power of feedback cycles
