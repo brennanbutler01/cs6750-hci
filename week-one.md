@@ -23,6 +23,15 @@
 9. Conceptual model - explanation of how something looks. mental models of how things work. can be competing
 10. System Image - the combined total of information available to us about a product, system. needs to be more complete, coherent.
 11. Paradox of tech - as we get more features packed into a device that make it more useful, it gets harder to learn and use.
+
+### Mackenzie Chapter 1 - HCI An Empirical Research Perspective
+1. As we may think - foundational essay by Vannevar Bush in 1945 for HCI. information overload makes our current methods always insufficient for coping.
+2. Sketchpad - 1962 - Ivan Sutherland. GFX system using light pen. Could draw. First __direct manipulation interface __. 
+3. Mouse - 1963 by Englebart. 
+4. Xerox Star 1081 - first commerical computer with a GUI - windows, icons, menus, pointing device. WYSIWYG. concept of a desktop. direct manipulation. user is in control
+5. HCI began officially with the First ACM SIGCHI Conference in 1983.
+6. Early writings by Card, Moran, and Newell's _The Psychology of Human-Computer Interaction_ was the first study of user psychology. Models of interaction.
+7. Apple Macintoish 1984 was released. 
 ---
 ## 1.2 Intro to CS6750
 Three Learning Goals:
