@@ -2,6 +2,8 @@
 
 ## Table of Contents
 1. [3.1 Intro to Methods](#3.1-intro-to-methods)
+2. [3.2 Ethics and Human Research](#3.2-ethics-and-human-research)
+3. [3.3 Needfinding and Requirements Gathering](#3.3-needfinding-and-requirements-gathering)
 
 ## 3.1 Intro to Methods
 
@@ -144,3 +146,103 @@ Facebook has their own IRB - they defer to a research expert. Companies are requ
 
 We should only:
 1. keep respect for participants at the forefront - don't waste their time, respect their position in the design process.
+
+## 3.3 Needfinding and Requirements Gathering
+
+### Needfinding Intro
+What is needfinding?? The first stage of the design process. understand the user, their task, their why.
+We need to abandon our preconceived notions. Abandoned our pre-designed solutions. Avoid these.
+
+Process:
+1. Define questions about who the user is, what they need
+2. Generate answers to these questions
+3. Formalize models of user into unique requirements for the ui.
+
+### Data Inventory
+Gather data as we go along and store our data.
+
+1. Who are the users?
+2. Where are the users? Environment
+3. What is the context of the task?
+4. What are the goals of the user?
+5. What do users need, right now? Info? Collabotors
+6. What are their tasks? 
+7. What are the subtasks? How do they accomplish them?
+
+### Problem Space
+Where is the task occuring, what else is going on, what are the needs of the user?
+
+We need to understand the scope of our problem. Take a broad approach. not too narrow.
+
+### User Types
+
+Get an idea of the space of the user. Who are we designing for? Get the full range! Walkman did a great job of this.
+
+### Avoding Bias
+
+Five biases:
+1. Confirmation Bias - we see what we want to see! We have preconceived notions and only see these. Test beliefs empirically, involve multiple people in the design process, looking for signs we are wrong
+2. Observer bias - we might bias users based on our input, how we phrase questions, etc. Separate experimentors from motives, heavily scripting interactions, and having someone else review scripts for leading questions
+3. Social desirability bias - people tend to be nice. If participants know that we are teh designer, we might have just polite responses. Try to hide the social desirable response, conduct more naturalistic observations, and record more objective data.
+4. voluntary response bias - people with stronger opinions will respond more often to surveys, skew feedback. quantitative risks oversampling extreme views. limit this by limiting how much content is shown to users when they begin the survey, and confirming any conclusions with ohter methods
+5. recall bias - people aren't good at recalling what they did or how they felt if it was in the past. study tasks in context, have users think aloud during activities, oor conducting interviews during the activity itself.
+
+### Naturalistic Observation
+Just watching. observe in natural contexts. limited, in that we cannot ask questions.
+
+5 tips:
+1. take notes - gather targetted info
+2. start specific, then abstract - don't summarize too soon
+3. spread out session - repeated, shorter sessions better than just one big
+4. find a partner - observe with someone else. compare notes.
+5. look for questions
+
+### Participant Observation
+Try doing it yourself! and see what you figure out...
+but remember, you are not the user!
+
+### Hacks/Workarounds/errors
+Check to see what non-intended ways users may create to make tasks easier. ask them why they have a workaround
+Errors are a great source for informing methods - see what errors users run into often. this will help us understand our user model.
+
+### Apprenticeship/Ethnography
+Become a participant, learn to be a user! integrate self into area and beceome an expert. learn about things as you go.
+
+### Interviews/Focus Groups
+Just talk to users and ask them questions. can be 1:1 or group.  groups might promote group think
+
+Tips:
+1. 6 ws - who? what? when? where? Why? How? avoid yes/no questions. ask open ended, semi-structured questions
+2. be aware of bias
+3. listen! do not predispose them and don't talk too much
+4. organize - intro phase, lighter questions to build trust, and a summary to teach purpose.
+5. practice interviewing and questions on others.
+
+### Think Aloud
+Ask users to talk about their perceptions of the task, while they perform it! Ask them to think aloud and doing the task. encourage users to think about more deliberately - which may change the way that they act.
+do a post event protocol - get the thoughts right after they finish. still fresh, but performance not impacted as much
+
+### Surveys
+Allow us to get some broader data without super intensive time sinks. quick interpretation and can be done async. can be useful to build interview/focus group questions.
+
+Tips:
+1. Less is more - don't ask too much. impacts response rate and reliability of data. keep q to minimum.
+2. be aware of bias - look at question phrasing for pressure, bias
+3. tie them to the inventory - every question should connect to data that we want to gather. start with goals, then questions
+4. test it out - have coworkers or colleagues test it out, pretend that they are real users
+5. iterate - make sure to constantly improve survey after testing. let the respondents give feedback
+
+Surveys are used often, but can only be useful if we are writing good questions.
+
+Advice for good questions:
+1. Be clear  - user should understand what we are asking. if giving a number number, make sure to provide some labels for the values. avoid overlapping ranges, they should be separate. if in doubt if user will understand, give extra information about what you are asking. if asking about frequency, timebox the question. give specific numbers, ask frequency within a certain period of time.
+2. Be concise - ask plain language. need to balance b/w clear and consise
+3. Be specific - questions should not be massive. break into separate smaller questions. avoid double barrel questions -ask just one question at a time. don't allow internal conflict...
+4. Be expressive - allow the user to be expressive - emphasize their opinions with how we are asking questions. use ranges, not yes/no. with levels of frequency/agreement, provide a lot of levels (at least 5). allow multiple selections, if possible. Let them add new categories if possible
+5. Be unbiased - allow open ended responses at times. give other boxes. maybe just leave open-ended questions, open.... avoid leading questions
+6. Be usable - give a progress bar to users. make page lengths consistent. order questions logically. alert users about unanswered questions. preview the survey yourself and fill it out.
+
+### Other methods
+1. critique existing designs
+2. Look at reviews about existing products - see what people like and dislike.
+3. Data logs - check data for what goes wrong, how users actually utilize the app.
