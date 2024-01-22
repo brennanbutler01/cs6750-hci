@@ -246,3 +246,35 @@ Advice for good questions:
 1. critique existing designs
 2. Look at reviews about existing products - see what people like and dislike.
 3. Data logs - check data for what goes wrong, how users actually utilize the app.
+
+### Iterative Needfinding
+
+Just like the design process should be iterative, needfinding can also be iterative. 
+We can bounce from naturalistic observation -> participant observation -> ethnography -> interviews -> hacks&errors -> surveys -> focus groups -> think-aloud and then start the cycle over again. Constant iteration and learning from the new research we have gathered. 
+
+### Revisting Inventory
+- after combining approaches, pay attention to where data seems to conflict. places where you might not understand the task well enough. compare against interview
+- who are the users
+- where are the users
+- what is the context of the task
+- what are the goals of the user
+- right now, what do users need
+- what are their tasks
+- what are their substasks
+
+what more might we need to know to figure this out?
+
+
+### Represent the need
+after resaerch, we want to formalize our research. get a step by step outline of tasks, break down to subtasks - hierarchical or linear series of tasks. make a structural diagram of the tasks, how the various pieces interact and create loops. flowchart with decisions
+
+
+### Define Requirements
+determine the requirements, that are unique and measurable, that we must meet. They may be outside user tasks. Define:
+1. Functionality - what the interface can do
+2. usability - how interactions must work
+3. learnability - how fast is it for a new user to learn
+4. compatibility - where it can run
+5. compliance
+6. cost
+7. 
