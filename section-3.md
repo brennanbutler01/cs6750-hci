@@ -156,9 +156,55 @@ Experimental methods, that are well designed, allow powerful conclusions to be d
 - balance b/w relevance nad precision. not controlled, but can connect better to real-life experiences.
 - data is curcumstantial - not cuase/effect like experimental
 
+#### Observation
+Either watching another human do a task or doing one yourself.
+Manual observations - counting, taking notes, timing by hand the duration of activities. used for pilot testing
+
+##### Measurement Scales 
+need to measure things, against a common scale - comparison!
+
+Different Types of Scales:
+1. Nominal - categorical data -  assign a random code to category - license plate numbers, postal codes, job classifications, etc. mutually exclusive categories - the actual number assigned does not really matter. entities of the same class are equivalent - that is the only relationship that is vital here. used with frequencies or counts - # times for each attribute. most basic
+2. Ordinal data - ranking/ordered. interval is not necessarily equal between points on the scale. cannot compute mean of ordinal data. more complicated than nominal, with rankings
+3. Interval data - more complicated than ordinal data. intervals have equal distant intervals! no zero though. means are meaningful, but ratios are not meaningful. 20c is not twice as warm as 10c. intervals are used for questionnaries (likert scale). responses should be symmetric w/ neutral value. equal gradations between responses. might help to let respondents know that they should consider the rankings as equal
+4. Ratio Data - most complicated/sophisticated. have an absolute zero and allow a lot of calculations. HCI's most common ratio is time! physical measurements like distance, velocity, force are ratios. counts are ratios. count per unit of time (bpm, mph, etc).
 
 
+##### Research Questions
+To generate research questions, check:
+1. is it viable?
+2. is it as good or better than current practice?
+3. what are its strengths and weaknesses?
+4. which of several alternatives is best?
+5. what are the human performance limits and capabilities?
+6. does it work well for novices, experts?
+7. how much practice is required?
 
+
+##### Validity
+
+1. Internal Validity - extent to which an effect observed is due to the test conditions.captures the confidence that it is contained and due to inherent differences. or was it because of distractions, outside influence, etc? high internal validity means that effect observed really exists!
+2. External Validity - extent to which results are generalizable - outside of the scope of the research/setting/context, can it be etrapolated and useful? representative of real world situations.
+
+Internal and external are at tension, have to sacrifice one.
+
+Ecological validity - refers to methodoloy (using tasks, situations, materials typical of the real world), while external validity refers to the outcome.
+
+##### Comparative Evaluation
+Rather than just collecting info about a subject, hci research should use an established condition of a baseline - compare to existing, alternatives, etc. Comparison is important. 
+
+Benefits of baseline:
+1. Check on methodology, know what to expect.
+2. Comparison is possible with other studies.
+
+
+#### Relationships : circumstantial and casual
+- look for and explain relationships - cause/effect often. variable manipulated is nominal-scale attribute of an interface (entry method, feedback modes, selection techniques, depth, etc) and variable measured is ratio - task completion time, number of clicks, srolling events, counts, error rates, etc.
+
+- many relationships are just circumstantial - not causal. causal relationships just come from controlled experiments. need random participant selection, random sampling.
+
+
+IF the variable manipulated is naturally occuring within every participant, cause and effect cannot be determined... like gender, personality, handedness, language, politcs, etc = cannot be manipulated.
 ## 3.2 Ethics and Human Research
 
 Milgram experiment, Tuskegee Syphillis Experiment, and Stanford Prison Experiment led to the National Research Act of 1974.
