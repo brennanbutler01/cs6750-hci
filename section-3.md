@@ -91,6 +91,74 @@ Feedback cycles are important to HCI. Based on the output of evaluations, we des
 5. Mixed method - mix quantitative and qualitative data together to get a better picture of the reuslts
 ---
 
+### Mackenzie Chapter 4
+
+#### What is research?
+Providing credibility.
+
+Three definitions:
+1. careful/diligent search (like looking for files).
+2. collecting information about a particular subject, like political surveying.
+3. investigation/experimentation aimed at the discovery and interpretation of facts and revision of accepted theories or laws in light of new facts. Theories are more general than laws. We have some laws, like **Fits Laws** - a model describing the time it takes to do point-select tasks.
+
+We want to have a formal and standardized methodology for doing research in HCI - more standardization. Empirical research encompasses experimental and non-experimental methodologies.
+
+HCI research **does not prove** things. We just gather facts and formulate and test evidence.
+
+Research must:
+1. be published
+   -  Research must be published! Knowledge gained through research needs to be shared, to refine and extend the existing body of knowledge in the field. Need high scrutiny in peer-reviewed journals. Patents are also a publication  - company can retain ownership and also make it public
+2. use citations, work within body of research
+   - Research papers use citations and references to connect papers together. Creates and connects a body of research. At the end of a paper, references are provided that provide the full resource, not just a brief citation. Citing previous work acknowledges that research continues, extends, and refines other research. Allows us to backup questionable assertations. More citations = more significant. **H index** is used to measure the impact of a researcher's publication record -  point where rank equals the number of citations. quantifies research productivity and impact of a body of work.
+3. be replicable
+    - need to be able to replicate it. standardized method makes it easier, provide methods in paper.
+
+
+ Resarch vs design?
+ - Engineers, designers create stuff and work on products. Research is more narrowly focused. Small ideas are focused on in resarch, prototyped, tested, and advanced or discarded. New ideas in research are incremental, building on others. Research prototypes are early on - and won't appear directly in products usually.Prototypes should not be too finished - don't waste time making too perfect or you won't benefit from feedback. Research is slower than design or engineering and may only be incorporated later. Researchers provide raw materials and processes for engineers.
+
+
+#### Empirical Resarch
+Based on observation or experience - don't just follow existing theory. Should be capable of being verified or disproved by observation or experiment - need hypotheses. Assertions should be narrow and clear.
+
+#### Research Methods
+
+##### Observational Methods
+observe humans interacting with computers. examples: interviews, field investigations, contextual inquiries, case studies, field studies, focus gorups, think aloud protocols, storytelling, walkthroughs, cultural probs.
+
+QUALITATIVE DATA - not precise but VERY RELEVANT. 
+
+directly observe in natural setting - not in a lab.
+
+discover the why/how of an interaction - reasons for behaviors - focus on thoughts, feelings, emotions, attitudes, reflection, sentiment, style, approach , etc.
+
+not many measuements - a lot of notes, photos, videos, recordings. Measurements are categorical.
+
+##### Experimental Method
+controlled experiments in a lab.
+
+QUANTITATIVE DATA - precise, but not very relevant.
+
+Need two variables: manipulated and response variable.
+- manipulated variable is shown to participants in different configurations. **indepdendent variable**
+- response variable is human behavior property that is observable, quantifiable, measurable. like time! something measurable... **dependent variable**
+
+need to have two configurations at least. usability evaluation and user testing are not experimental methods, because there is not a manipulated variable. A User study does typically involve multiple configurations are tested and compared. Usability evaluation is usually just a single interface and config, so not experimental.
+
+Experimental methods still involve some observation.
+
+Experimental methods, that are well designed, allow powerful conclusions to be drawn. Cause/effect.
+
+##### Correlational Method
+- looks for relationships between variables - quantification of multiple variables. categories
+- data collected through observations, interviews, surveys, questionnaires, measurements.
+- work in conjunction with experimental methods.
+- balance b/w relevance nad precision. not controlled, but can connect better to real-life experiences.
+- data is curcumstantial - not cuase/effect like experimental
+
+
+
+
 ## 3.2 Ethics and Human Research
 
 Milgram experiment, Tuskegee Syphillis Experiment, and Stanford Prison Experiment led to the National Research Act of 1974.
