@@ -261,6 +261,23 @@ Facebook has their own IRB - they defer to a research expert. Companies are requ
 We should only:
 1. keep respect for participants at the forefront - don't waste their time, respect their position in the design process.
 
+#### Emotional Contagion Facebook
+1. In response to published articles, 61% respondents were surprised FB researched, 84% lost trust, and 66% were considering closing their accounts. FB issued apology.
+2. Study wanted to test if repeated exposure to positive content on facebook caused unhappiness due to social comparisons. So FB modified news feeds and gave one group more positive content, another more negative, and one group with less emotional content. Found that users exposed to more emotional content were posting more emotional content, while those without emotions were posting less. challenged the idea found in previous studies that fb's emotional content was making people sad
+3. Study brought about questions about how to ethically conduct online platform-baseed research. This paper wants to see what people responded? what issues and considerations were important? and why were people so upset?
+
+In analysis of negative responses, those with the most negative attitudes towards research are not likely to be represented within research... how can we get their opinion? borrow from controversy analysis and studies of mediated public reactions to avoid underrepresenting them.
+
+##### Theory of Analysis
+1. Controversy analysis - mediated controversies to study issues - the responses to the mediated controversy of the FEC study allowed views about facebook and research to come into the light.
+2. Expectancy Violation Theory - individuals have expectation about communicative behiavor of others, and violation of expectations causes people to re-assess their knowledge and relationships to others. design choices and features of social media shape engagement and relationships. user expecations shape assessments about the experience of social media. gap b/w knowing that expectations have been violated and what those expectations are.
+
+##### Methods of analysis
+- analayze and collect public comments on news articles - in this case, no need to separate public reaction from media coverage (it was mediated... or else we would have never known about it). comments reveal publicly important issues and capture reactions, sense-making practices to provide access to perspectives of people who may not use social media directly. addresses participant response bias - no limits on participation. broader sample.
+
+##### Data
+1. Collection -  public comments gathered on a set of articles related to the study
+2. Analysis - did thematic analysis - waht bothered peole about the study
 ## 3.3 Needfinding and Requirements Gathering
 
 ### Needfinding Intro
