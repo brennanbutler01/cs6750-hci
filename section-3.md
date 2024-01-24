@@ -278,6 +278,50 @@ In analysis of negative responses, those with the most negative attitudes toward
 ##### Data
 1. Collection -  public comments gathered on a set of articles related to the study
 2. Analysis - did thematic analysis - waht bothered peole about the study
+
+---
+
+##### Findings:
+1. Living in a Lab - all research conflated into one category by commenters.
+	-frustrated that no obvious start and endpoint for facebook research and did not know that theyy were being experimented on. even after knowing about the study as a whole, it wasn't clear if your feed was one manipulated. 
+	- lag in awareness - sense of secrecy and uncertainty about waht is being done now.
+	- lack of compensation.
+	- even among those defending research - there was no thought about the value or purpose of study. 
+	- exploitative! lab rats.
+	- public views did not consider harm vs possible societal benefit - people just focused on the negatives!
+	- lack of transparency + power dynamic. 
+
+2. Manipulation Anxieties
+	- opened people up to the idea that all news was manipulated on FB. manipulates the relationship between people. missing context.	
+	- manipulated the very user themselves - create a herd of docile consumers/mind manipulations/everything can be controlled.
+	- mental health? could be making people sad - what if they were already vulnerable? suicidal?
+3. Wake up sheeple
+	- pre-existing negative views of FB confirmed - this is the way that the world and social media work
+	- accountability shifts from FB  to the users. don't use FB if you don't want to be an experiment.
+	- shame others for using FB!
+4. No Big deal
+	- no issues. aligned with expectations for FB and businesss as a whole. 
+	- like wake up sheeple folks, they expected this and it re-affirmed their views.
+	- manipulation as mundane - everything is manipulated! its just how it is.
+	- like wake up sheeple - places blame on those who don't understand how social media/media/all communication works.
+
+
+Commenters were surprised about the responses and attitudes of their peers. Norms surrounding online platforms are not unified or settled. 
+Public relationships to platforms inform their assessments of resarcher conducted on the platform. FB has struggled with trust, so that's why there might be more negative views.
+
+##### Relational Approach
+The relationship between users and the platform needs considered for research. Need a relational approach. 
+
+The platform should be considered as a third party to social media research - and an important one, bwecause the relationship b/w platform and users precedes and endures beyond any given study.
+
+- Just limiting consent/understanding to terms of service is not sufficient, because users don't read or understand them. 
+- View of ethical stakeholders should be broaded to include non-users, because even they have expectations in the platform and cshare their opinions. FB has broad societal impacts, so we are all affected by it. The expectations of non-users 
+fold back onto those who are using the platform and so we need to incorporate their perspectives to anticipate controversy, push researchers to consider the public benefits of research, and cultivate more benefical relationships with platforms.
+- We cannot get just one common view, but we should account for needs/expectations of different relationships with the platform - not just the official relationship, or users, or etc.
+Pay attention to the cultivation of informal expectations, norms.
+- relying on the terms of service is not enough!! allowing opt-in might make it better and more positive. an opt-out option could also address some concerns, as they could just remove themselves. 
+relational ethics is going to be the key - understand the variety of public expectations for platforms and use that understanding to inform the design and communication of research.
+
 ## 3.3 Needfinding and Requirements Gathering
 
 ### Needfinding Intro
