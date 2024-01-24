@@ -452,4 +452,92 @@ determine the requirements, that are unique and measurable, that we must meet. T
 4. compatibility - where it can run
 5. compliance
 6. cost
-7. 
+
+
+---
+
+#### Survey Research in HCI									
+----
+
+Survey is gathering info by asking questions to subset of people - then using their answers to generalize to wider target population.
+
+For HCI - useful to:
+
+1. gather info about habits/behaviors related to TECH
+2. get demographic or psychographic info
+3. get feedback on experiences with an application
+4. gather attitudes/perceptions towards an application
+5. understand intents and motiviations for using an application
+6. quantitatively measure task success
+7. capture awareness of certain systems, services, theories, features
+8. compare attitudes, experiences over time/across dimensions.
+
+
+Surveys **DO NOT** allow for observation of context or follow-up questions.
+
+Surveys n**eed random sampling** and questionnaire bias needs reduced to a minimum. LIKERT Scale.
+
+Surveys do allow for info to be gained about attitudes, experiences, intents, demographics of users. BUT - they cannot answer all questions.
+##### When to use:
+
+1. need to represent an entire population, measure differences b/w groups of people, and identify changes over time!
+2. attitudes - good for measuring attitudes and perceptions (like customer service surveys)
+3. intents - collect why someone uses an application - can be an intercept survey so it happens while you are in the app itself.
+4. Task success - qualitatively observe success - quantity levels of success
+5. UX Feedback - get open-ended feedback
+6. User Characteristcs - understand users and their needs.
+7. Interactions with tech - understand how people interact with tech and how tech influences interactions.
+8. awareness - helps understand how aware people are about an issue or topic. 
+9. comparisons - compare attitudes, perceptions, etc across time, geography, applications, etc. easy to compare.
+
+
+##### When to avoid surveys?
+
+1. precise behaviors - precision is hard to gather when using surveys - need more formal methods rather than self-reporting. like diary studies, observational study, or experience sampling
+2. underlying motiviations - users cannot understand why they take actions themselves - so we should use ethnography and try it out!
+3. usability evaluations - task-based observational research methods are better tounderstand why errors happen
+
+##### Survey as pre/post other research:
+
+- surveys are good when used before/after another method, like qualitative research
+- use survey to identify high level insights that will be drilled down into during the more in-depth research. use survey to identify a range, for instance.
+- use surveys + a/b experiments. this lets us draw comparisons.
+
+##### Steps to do surveys:
+1. Research Goals/Constructrs- think about what is going to be measured, what data is needed. after finding goals, map to constructs. constructs are unidimensional attributes that cannot be directly observed but maybe identified from other research.
+    - constructs should become our questions. happiness is multidimensional! should be broken into distinct, measurable pieces - constructs. 
+    - Check to make sure a survey really is appropriate: make sure to keep questions to a minimum - if we are going to do longitudinal comparisons, we need to make sure we don't exhaust participants. Determine statistical reliability needed.
+2. Determine the population of the survey - how many, who? make a sampling frame - the set of peole who are able to be contacted for the survey. from the sampling frame, select people and those who are invited are the sample. those who respond are the resopondents.
+    - avoid coverage errors - which happen when certain users are excluded systematically from participating.
+    - probability sampling minimizes selection/sampling bias - gives a random chance to everyone. can use a preexisting sampling frame.
+    - probability sampling is not always possible - small populations might be better with snowball recruiting and convenience samples. less representative.
+3. Determining the appropriate sample size.
+    - figure out how many people make up the population being studied
+    - determine the level of precision needed - determine the margin of error. the confidence level of the study will indicate how likely the reported metrics fall within the margin of error. usually 5% or 3% margins of error are allowed.
+    - response rate will determine the percentage of those who completed the survey / out of those who were invited. 
+    - if we determine that we won't be able to get enough people invited who will respond to get a good confidence level in results, we will want to look at other methods instead of surveying...
+
+##### Mode and Methods of Survey Invitation
+Four basic modes: these can be combined.
+1. mail/written surveys
+2. phone surveys
+3. f2f/in-person surveys
+4. internet surveys (easy to access geographical regions, easy to create, cheap, immediate collection, lower bias, can customize question ordering). Internet has a lot of positives but coverage errors - people w/o internet can't participate. also, those invited to internet surveys may lie more easily.
+
+##### Questionnaire Design and Biases
+- bad questions introduce measurement errors when users don't understand questions or they are leading.
+- surveys only have one opportunity - so cannot probe or clarify.
+
+##### Types of Survey Questions
+1. Open Ended - use when the universe of answers is unknown, there are many options in the full list of possible answers, measuring quantities with natural metrics, measuring qualitative aspects about how a user experienced or perceived something
+2. Close Ended - universe of answers is small/known, is related to a single dimension or scale, measuring quantities without natural metrics.
+
+##### Four types of Close Ended Questions
+1. Single choice - one answer possible only
+2. Multiple Choice - more than one can be selected/select all option
+3. Ranking Questions - prioritize choices
+4. Rating Questions - judge on continuum. should use a unipolar or bipolar scale.
+	- unipolar constructs - range from zero to an extreme amount. no midpoint. 5 point scales (not at all, slightly, moderately, very, extremely)
+	- bipolar range from extreme negative to extreme positive. have a midpoint. best measured with 7 point scale . midpoints might help promote reliability in answering.
+	
+	
