@@ -539,5 +539,243 @@ Four basic modes: these can be combined.
 4. Rating Questions - judge on continuum. should use a unipolar or bipolar scale.
 	- unipolar constructs - range from zero to an extreme amount. no midpoint. 5 point scales (not at all, slightly, moderately, very, extremely)
 	- bipolar range from extreme negative to extreme positive. have a midpoint. best measured with 7 point scale . midpoints might help promote reliability in answering.
-	
-	
+
+##### Questionnaire Biases
+
+Check every question for bias!
+
+ 
+
+5 most common types:
+
+ 
+
+1. Satisficing - respondents use minimum cognitive effort to answer questions. They just pick whatever is the first acceptable response.
+
+    - Weak vs strong:
+
+        -  Weak attempt to answer correctly
+
+        -  Strong just answer randomly.
+
+    -  To combat:
+
+        - Avoid complex questions
+
+        - Avoid n/a, unsure, and other tempting answers
+
+        - don't always use the same scale in back-to-back questions!
+
+        - long questionnaires should be avoided.
+
+        - explain importance of survye topic.
+
+        - add in trap questions to check for attention.
+
+2. Acquiescence Bias  - people concur with yes/no, true/false, agree/disagree without actually considering it
+
+    - To Combat:
+
+        - avoid questions with agree/disagree, yes/no, etc answer options
+
+        - ask non-leading, netural questions - not agreement questions
+
+        - use reverse keyed constructs - ask both positively and negatively the same question.
+
+3. Social Desirability - answer in a way that respondents think is positive. favorable actions can be overreported. topics prone: voting, religion, sex, patriotism, illegal stuff.
+
+    - respondents want to provide desirable answers when: they go against social norm, have to provide info about sensitive topics, their identity is captured.
+
+    - To Combat:
+
+        - allow answer anonymously or self-administration
+
+4. Response Order Bias - tendency to select items toward the beginning or end of an answer list or scale.
+
+    - To Combat:
+
+        - Unrelated options should be randomly ordered
+
+        - rating scales should be ordered from negative to positive
+
+        - reverse order of ordinal scales across participants.
+
+5. Question Order Bias - preceding questions may bias the questions thata follow.
+
+    - To Combat:
+
+	- Questions should be ordered from broad -> specific
+
+        - Early questions should be easy and build rapport
+
+        - -non crticial questions should be towards the end
+
+        - related questions should be grouped
+
+        - divide survey into multiple pages.
+
+ 
+
+##### Questions to Avoid
+
+Avoid asking broad, leading, double-barreled, recall, prediction, hypothetical, and prioritization questions.
+
+- Broad are lacking focus and aren't defined clearly, or could be stated in multiple ways. ask focussed!
+- Leading questions - manipulate respondent to give a certain answer by not asking things neutrally. ask netural! ask both ways!
+- double barreled questions - questions about two things at once. just pick one.
+- recall questions - 'how many times have you used the internet in the last 6 months' - people will forget or guestimate, not good
+- prediction questions - how frequently will you use x, which new feature would make you more satisfied with the product, etc. exclude these!
+
+   
+
+##### Leverage Establish Questionnaires
+
+use existing ones. things like QUIS  - Questionnaire for User Interface, SUMI - Software Usability Measurement Inventory, VisAwi - Visual aesthetics of website inventory.
+
+ 
+
+ 
+
+##### Visual Survey Design
+
+spacing between options matters - use even spacing. don't use dro-down lists or large text fields. don't have too many questions on  page. give a progress bar for short surveys, but maybe not for long ones.
+
+ 
+
+ 
+
+##### Review and Survey Pretesting
+
+Pretesting and field testing help improve survey quality, allow you to evaluate surveys early on!
+
+ 
+
+###### Cognitive Pretesting
+
+Ask a small group of respondents to take the survey using think-aloud protocol. Ask question interpretation, terminology. Have each respondent:
+
+ - Read the entire question and explain it
+ - Select or write an answer and explain thought process
+ - Describe any confusing terminology
+
+ 
+
+##### Field Testing
+
+Pilot survey with small subset of sample to see what works. Assess success of sampling approach - check completion times. look for break-off rates that indicate issues with survey. can drive questionnaire improvements.
+
+ 
+
+ 
+
+##### Piping Data
+
+When able, pipe behavioral data from logs/etc into the survey.
+
+ 
+
+##### Monitoring Survey Paradata
+
+Survey paradata is data about the survey response process. main:
+
+1. Click-through rate - how many opened
+
+2. Completion rate - how many finished of those opened
+
+3. REsponse rate - how many finished of those invited
+
+4. break off rate - how many dropped off on each page
+
+5. completion time - time it took
+
+ 
+
+##### Maximize Response Rates
+
+Total Design Method - timed sequence of four mailings - one on survey week one, a reminder on two, a replacement survey to non-respondedents on week 4, and a second replacement survey to non-respondents on week 7. use official stationary, explain purpose, personalize the letters. can use non-contingent rewards for completion or participation.
+
+ 
+
+ 
+
+##### Data Analysis/Reporting
+
+After we have collected, need to make sense of the data.
+
+1. Prepare and explore data
+
+2. Analyze
+
+3. Synthesize
+
+ 
+
+###### Data Preparation and Cleaning
+
+Clean and look for:
+
+1. Duplicate responses - use unique identifiers, check for double responses
+
+2. Speeders - check against too fast responses
+
+3. Straight-liners - check if they have straight lined or answered questions in a pattern
+
+4. missing data - skip questions
+
+5. low inter-item reliability - when asking related questions or opposite questions, check to make sure responses are consistent
+
+6. outliers - significant deviations from majoirty should be reviewed, if someone picked someothing that no one else did.
+
+7. inadequate open-ended
+
+ 
+
+###### Analysis of Close Ended Responses
+
+Use  descriptive statistics - look for median, deviation to find patterns. look for central tendency - find the most common responses. inferential statiics can try to fill in gaps about our stats. can use estimation statics. do hypothesis testing.
+
+- Bivariate correlations - used to assess linear relationship between variables
+
+- linear regression - check proprortion of variance in a continuous variable that is explained by one or more independent variables
+
+- logistic regression - predicts change of getting a particular binary value
+
+- decision trees to assess outcome probabilities
+
+- factor analysis - identify groups of covariates
+
+- cluster analysis - look for related groups of respondents
+
+ 
+
+ 
+
+###### Analysis of Open Ended Comments
+
+Grounded theory might be helpful. Can use coding to organize and transform the qualitative data of comments into a number.
+
+- deductive approach - researcher decides possible codes and then assigns to comments
+
+- bottom-up/inductive - costantly generate and revise codes. bottom up is better, because it is more organic.
+
+To measure coding system and codes - repeat coding and involve a second coder. check for intra-rater reliability and inter-rated reliability
+
+ 
+
+###### Representativeness
+
+Surveys need to be representative - even a little non-response can affect non-response bias.
+
+ 
+
+###### Report Findings
+
+- make sure to share results, methodology, research goals - sampling method, survey mode, invitation, fielding process, and response paradata. include how the respondents compare to the overall population
+
+ 
+
+##### Questionaire vs Survey
+
+- Questionaire: fast, ready-made questions, just there for collecting data, questions are closed ended, and the answers are objective
+
+- surveys - rigorous question design, selection design, questions are in-fluex, tested. surveys are a process - plan/create/test/refine, collect/refine/synthesize/share.
