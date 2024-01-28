@@ -1,11 +1,7 @@
 # CS6750 - HCI - Week One
 
-## Table of Contents
-1. [1.1 Intro to HCI](#1.1-intro-to-hci)
-2. [1.2 Intro to CS6750](#1.2-intro-to-cs6750)
-3. [1.3 Exploring HCI](#1.3-exploring-hci)
-
 ---
+
 ## 1.1 Intro to HCI
 
 ### Design of Everyday Things Chapter 1
@@ -16,10 +12,10 @@
 3. Experience Design - designing products, processes, services with a focus on the quality and enjoyment of the total experience.
 4. Need Human-centered design, put human needs, capabilities, and behavior first. Need good communication. Ensure that designs match the needs and capabilities of the people who will use it.
     * Avoid specifying the problem as long as possible - iterate upon repeated approximations.
-5. Affordances - relationship b/w physical object and a person (is for something). not a property but a relationship - needs object + agent. affordances should be discoverable - percievable, but can be invisible. determines what actions are possible
+5. Affordances - relationship b/w physical object and a person (is for something). not a property but a relationship - needs object + agent. affordances should be discoverable - perceivable, but can be invisible. determines what actions are possible
 6. Signifiers communicate where the action should take place. communicates the purpose, structure, operation of device.
 7. Mapping - the relationship between two sets of things. should be a mapping between a control, action, and the intended result. grouping and proximity, should be natural. these can be culturally specific. works best when set of actions is visible and controls exploit natural mapping. need care, planning, thought, and an understanding of how people behave.
-8. Feedback - need a way to let you know if the system is working on the request. should be immediate and informative - but not to omuch. feedback should be planned.
+8. Feedback - need a way to let you know if the system is working on the request. should be immediate and informative - but not too much. feedback should be planned.
 9. Conceptual model - explanation of how something looks. mental models of how things work. can be competing
 10. System Image - the combined total of information available to us about a product, system. needs to be more complete, coherent.
 11. Paradox of tech - as we get more features packed into a device that make it more useful, it gets harder to learn and use.
@@ -27,11 +23,11 @@
 ### Mackenzie Chapter 1 - HCI An Empirical Research Perspective
 1. As we may think - foundational essay by Vannevar Bush in 1945 for HCI. information overload makes our current methods always insufficient for coping.
 2. Sketchpad - 1962 - Ivan Sutherland. GFX system using light pen. Could draw. First __direct manipulation interface __. 
-3. Mouse - 1963 by Englebart. 
-4. Xerox Star 1081 - first commerical computer with a GUI - windows, icons, menus, pointing device. WYSIWYG. concept of a desktop. direct manipulation. user is in control
+3. Mouse - 1963 by Englebert. 
+4. Xerox Star 1081 - first commercial computer with a GUI - windows, icons, menus, pointing device. WYSIWYG. concept of a desktop. direct manipulation. user is in control
 5. HCI began officially with the First ACM SIGCHI Conference in 1983.
-6. Early writings by Card, Moran, and Newell's _The Psychology of Human-Computer Interaction_ was the first study of user psychology. Models of interaction.
-7. Apple Macintoish 1984 was released. 
+6. Early writings by Card, Moran, and Newel's _The Psychology of Human-Computer Interaction_ was the first study of user psychology. Models of interaction.
+7. Apple Macintosh 1984 was released. 
 ---
 ## 1.2 Intro to CS6750
 Three Learning Goals:
@@ -40,7 +36,7 @@ Three Learning Goals:
 3. Understand current applications of HCI.
 
 Learning outcome:
-1. Be able to design effective interactions between humans and computers. Apply known principles to new problems. Work to gather information, refine interace based on user feedback. Principles + Methods of HCI.
+1. Be able to design effective interactions between humans and computers. Apply known principles to new problems. Work to gather information, refine interface based on user feedback. Principles + Methods of HCI.
 
 How to measure usability?
 1. Is effectiveness or research the goal? Or is it to change an activity? Effectiveness will be determined by what our goal is.
@@ -51,15 +47,15 @@ How to measure usability?
 
 ### CHI of Teaching Online - Chapter 5
 1. The classroom is now a user interface itself. Learning design and user interface design both require rapid feedback.
-2. Flexibility - design should accomodate a wide range of individual preferences and abilities. actions should be tailored. 
+2. Flexibility - design should accommodate a wide range of individual preferences and abilities. actions should be tailored. 
     1. Geographic flexibility - students can study from anywhere. ties into equity.
     2. Temporal flexibility - can take classes when you want.
     3. Preference flexibility - can watch on your own time, skip things if needed.
-3. Equity - should be accessible, no stigmitization. 
+3. Equity - should be accessible, no stigmatization. 
     1. financial - not expensive
     2. admissions - no limit on enrollment.
     3. anonymity - can choose what you want to reveal.
-4. Consistency - users shouldnt have to wonder whether words, actions, situations mean the same thing. should follow conventions
+4. Consistency - users shouldn't have to wonder whether words, actions, situations mean the same thing. should follow conventions
     1. assignment cadence - everything always available. weekly deliverables
     2. announcement - weekly lectures w/ expectations.
 5. distributed cognition
@@ -86,7 +82,7 @@ Three areas:
 5. Mobile - mobile first world. users are distracted, less screen real estate, hard to do some kind of input.
 
 ### Ideas
-1. Context Sensitive Computing - computers must be aware of context (different google maps and spotify views when driving).
+1. Context Sensitive Computing - computers must be aware of context (different Google Maps and spotify views when driving).
 2. Gesture based interaction - computers should interpret and understand gestures. 
 3. pen/touch based - used for art
 4. information visualization - with so much data, we need a way to understand it. computers let us re-represent data in complex ways.
@@ -97,6 +93,6 @@ Three areas:
 ### Domains
 1. Special needs - disabilities, aging, injuries
 2. Education - should things always be as easy as possible? need some learning experiences at times. limit and focus cognitive load.
-3. Healthcare -vr, wearable devices, context sensitive computing. vr for therapy
+3. Healthcare -vr, wearable devices, context-sensitive computing. vr for therapy
 4. Security - need security measures that are usable, so people use it. make actions easier to conform.
 5. Games - logical mapping between actions/effects. power of feedback cycles
