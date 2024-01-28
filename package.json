@@ -1,0 +1,11 @@
+{
+  "name": "cs6750-hci",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:/brennanbutler01/cs6750-hci.git",
+  "author": "BB <brennanbutler01@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "doctoc": "^2.2.1"
+  }
+}

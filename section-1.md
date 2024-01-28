@@ -1,6 +1,25 @@
+
 # CS6750 - HCI - Week One
 
 ---
+
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [1.1 Intro to HCI](#11-intro-to-hci)
+  - [Design of Everyday Things Chapter 1](#design-of-everyday-things-chapter-1)
+  - [Mackenzie Chapter 1 - HCI An Empirical Research Perspective](#mackenzie-chapter-1---hci-an-empirical-research-perspective)
+- [1.2 Intro to CS6750](#12-intro-to-cs6750)
+  - [Important points](#important-points)
+  - [CHI of Teaching Online - Chapter 5](#chi-of-teaching-online---chapter-5)
+- [1.3 - Exploring HCI](#13---exploring-hci)
+  - [Technologies](#technologies)
+  - [Ideas](#ideas)
+  - [Domains](#domains)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 
 ## 1.1 Intro to HCI
 
