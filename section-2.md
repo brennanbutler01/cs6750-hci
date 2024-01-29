@@ -10,7 +10,7 @@
     - [Role of User](#role-of-user)
     - [Using User models to evaluate interfaces](#using-user-models-to-evaluate-interfaces)
     - [UX](#ux)
-  - [Normon - Cognitive Engineering CH 3](#normon---cognitive-engineering-ch-3)
+  - [Norman - Cognitive Engineering CH 3](#norman---cognitive-engineering-ch-3)
     - [Psychological/Physical Variables Variables](#psychologicalphysical-variables-variables)
       - [Aspects of a task](#aspects-of-a-task)
     - [Gulfs of Execution and Evaluation](#gulfs-of-execution-and-evaluation)
@@ -25,7 +25,11 @@
     - [Design Issue](#design-issue)
     - [Tradeoffs](#tradeoffs)
     - [Prescriptions](#prescriptions)
-  - [Normon Chapter 2 - The Design of Everyday Things](#normon-chapter-2---the-design-of-everyday-things)
+  - [2.2 Feedback Cycles](#22-feedback-cycles)
+    - [Gulf of Execution](#gulf-of-execution)
+    - [Gulf  of Evaluation](#gulf--of-evaluation)
+    - [Norman's Bridge](#normans-bridge)
+  - [Norman Chapter 2 - The Design of Everyday Things](#norman-chapter-2---the-design-of-everyday-things)
     - [Gulf of Execution and Evaluation](#gulf-of-execution-and-evaluation)
       - [Gulf of Evaluation](#gulf-of-evaluation)
     - [Seven Stages of Action](#seven-stages-of-action)
@@ -161,7 +165,7 @@ society - can bubble up to societal views.
 
 ---
 
-## Normon - Cognitive Engineering CH 3
+## Norman - Cognitive Engineering CH 3
 
 **Cognitive Engineering** attempts to apply cognitive science to computers. Understand principles
 behind human action relevant for engineering design, and to devise systems that are pleasant to use.
@@ -329,11 +333,80 @@ helped by the fact it was **self-contained* and the user was a frequent user!
 
 ---
 
-## Normon Chapter 2 - The Design of Everyday Things
+## 2.2 Feedback Cycles
+
+Ubiquitous, they are everywhere. Feedback cycles are how we learn everything. Do something, see
+result, and then adjust what we do accordingly.
+
+do something, learn from the experience - adaptive behavior. getting better over time!
+
+all of hci is an application of feedback cycles - person and task, person and interface, systems of
+multiple people and interfaces.
+
+### Gulf of Execution
+
+How do I know what I can do? How to figure out what actions to take to make the state of the system match their goal state? How hard is it to do in the interface?
+1. Identity intentions - what is the goal in the context of the system?
+2. Identify actions to accomplish goals.
+3. Execute the actions within the interface.
+
+To bridge, maybe the interface should help us re-frame our questions.
+
+5 tips:
+1. Make functions discoverable. It should be clear what a user can do.
+2. Let the user mess around - let them feel safe, avoid buttons that cause harm.
+3. Be consistent with other tools - use standards that other tools use.
+4. Know your user - for novices, identifying intentions and actions is most important. for experts, actually doing the action is more valuable, care about efficiency.
+5. feedforward - feedback on what the user might want to do. help them predict what will happen as a result of their action.
+
+
+### Gulf  of Evaluation
+Express through the interface the result of the actions that the user took. 
+1. Physical form of output - visual, sound, some kind of output.
+2. Interpretation  of the output for the real meaning of the feedback.
+3. Evaluation of the interpretation to figure out if goals were accomplished.
+
+5 tips:
+1. give constant feedback - do not wait for feedback. show them right away. help them understand where the system is in executing.
+2. give feedback immediately - even if it is not a full response. let the user know their input is recognized.
+3. match feedback to the action. subtle actions should have subtle feedback.
+4. vary feedback. sometimes can do it on the screen, other times can do sounds or haptic feedback.
+5. leverage direct manipulation - let the user feel that they are directly manipulating.
+
+### Norman's Bridge
+
+Norman proposes considering Gulfs as bridges because this is how the gulf is bridged.
+1. Bridge of Execution - make the world match goal
+   - Plan
+   - Specify
+   - Perform
+2. Bridge of Evaluation - check that the system state matches the goal
+    - Perceive
+    - Interpret
+    - Compare
+
+7 Questions:
+1. How easily can one determine the function of the device? (goal) What do i want to do?
+2. How easily can one determine what actions are possible? (planning) What are the alternatives?
+3. How easily can one determine the mapping from intent to movement? (specify) What can  i do to actually perform?
+4.  How easily can one actually perform the physical actions? (perform) How do i do that?
+5. How easily can the user tell what state the system is in? (perceive) What happened?
+6. How easily can they tell if the system is in the desired state? (interpret) What does that mean?
+7. How easily can the user determine the mapping from state to interpretation? (compare) Is that okay?
+
+Phases:
+1. Visceral - Perform and perceiving - Reaction
+2. Behavioral - Specifying and interpreting - Deliberation
+3. Reflective - plan and compare - Metacognition
+
+---
+
+## Norman Chapter 2 - The Design of Everyday Things
 
 ### Gulf of Execution and Evaluation
 
-When users try to do something, they face these two gulfs **Gulf of Execution** - gap describing how to do what the user
+When users try to do something, they face these two gulfs **Gulf of Execution** - gap describing how
+to do what the user
 wants to the system (how?) and
 **Gulf of Evaluation** - gap between the users actions and the effects on the system(what?).
 
@@ -341,12 +414,14 @@ These gulfs must be bridged by the designer.
 
 #### Gulf of Evaluation
 
-Systems need helpful feedback loops and a good conceptual model that makes it easy for users to have info about the
+Systems need helpful feedback loops and a good conceptual model that makes it easy for users to have
+info about the
 system state and is designed to match the user's thought processes.
 
 ### Seven Stages of Action
 
-Two parts to every action - **doing** and **interpreting** the results of that doing. Execution/Evaluation.
+Two parts to every action - **doing** and **interpreting** the results of that doing.
+Execution/Evaluation.
 
 First stage is figuring out what our goals are...
 
@@ -371,12 +446,15 @@ First stage is figuring out what our goals are...
 6. Interpret results
 7. Compare the outcome with the goal
 
-The stages of action can begin from the top or bottom. Many of our daily tasks are opportunistic, meaning we do not plan
+The stages of action can begin from the top or bottom. Many of our daily tasks are opportunistic,
+meaning we do not plan
 ahead.
 
-The gulfs of execution and evaluation allow opportunity for product enhancement and innovation. Need to have
+The gulfs of execution and evaluation allow opportunity for product enhancement and innovation. Need
+to have
 observational skills to detect the gulf.
-**Root Cause Analysis** is a technique to find the root cause of a problem by continuously asking why.
+**Root Cause Analysis** is a technique to find the root cause of a problem by continuously asking
+why.
 
 It is hard to understand human minds, so thinking about the 7 stages of action is very helpful.
 
@@ -384,86 +462,116 @@ Most human thoughts are subconscious, highest level consciousness is _reflective
 
 **Declarative memory** allows us to subconsciously respond immediately to factual questions.
 
-**Procedural memory** allows us to recall activities performed to do something in order to answer a question.
+**Procedural memory** allows us to recall activities performed to do something in order to answer a
+question.
 
-Cognition and emotion cannot be separated. Cognition attempts to make sense of the world and emotion assigns value.
+Cognition and emotion cannot be separated. Cognition attempts to make sense of the world and emotion
+assigns value.
 Cognition provides understanding and emotion provides value judgments.
 
-The subconscious moves fast and is good at making patterns, but can get things wrong. It is biased towards regularity
-and structure and cannot reason through a sequence of steps. It is fast, automatic, uses multiple resources
+The subconscious moves fast and is good at making patterns, but can get things wrong. It is biased
+towards regularity
+and structure and cannot reason through a sequence of steps. It is fast, automatic, uses multiple
+resources
 automatically and controls skilled behavior - we just know what to do!
 
-Conscious mind is slow and controlled with limited resources. we use it when we are in novel situations or unskilled, in
+Conscious mind is slow and controlled with limited resources. we use it when we are in novel
+situations or unskilled, in
 danger.
 ![cognition systems chart](cognition-systems-chart.png)
 
 ### Human Cognition and Emotion
 
-Cognitive and emotional processing can be thought of on three different levels of processing that work in concert:
+Cognitive and emotional processing can be thought of on three different levels of processing that
+work in concert:
 visceral, behavioral, and perceptual., and reflective.
 
 #### 3 Levels of Cognition
 
 1. Visceral Level
-    - The most basic level. 'Lizard Brain'. Allows us to make quick judgements, respond subconsciously.
+    - The most basic level. 'Lizard Brain'. Allows us to make quick judgements, respond
+      subconsciously.
     - It does not learn well. Happens through sensitization and conditioning.
     - Fast and automatic responses.
-    - Responds to the immediate present and produces an affective state, unaffected by context or history
+    - Responds to the immediate present and produces an affective state, unaffected by context or
+      history
     - Tightly coupled to the body-fight/flight.
     - So fast that they are not emotions, but precursors to emotions.
-    - For design, it is about the immediate perception. Use aesthetic sensibilities to drive positive visceral
+    - For design, it is about the immediate perception. Use aesthetic sensibilities to drive
+      positive visceral
       responses! Make it attractive.
 2. Behavioral Level
-    - Home of learned skills based on situations that match patterns. Also happens subconsciously. We are aware but
+    - Home of learned skills based on situations that match patterns. Also happens subconsciously.
+      We are aware but
       unsure.
-    - Happens when performing a well-learned action. Just think of a goal and we know how to act already.
-    - For design, every action is associated with an expectation. A positive outcome results in a positive affective
-      response. A negative outcome results in a negative affective response. The feedback loop of evaluation confirms or
+    - Happens when performing a well-learned action. Just think of a goal and we know how to act
+      already.
+    - For design, every action is associated with an expectation. A positive outcome results in a
+      positive affective
+      response. A negative outcome results in a negative affective response. The feedback loop of
+      evaluation confirms or
       disproves expectations, and results in satisfaction or disappointment.
-    - Behavioral states are learned. Give rise to feeling of control when results are understood, frustration when
-      things don't go as planned. The feedback provides reassurance. Lack of feedback makes things unsettling. Feedback
+    - Behavioral states are learned. Give rise to feeling of control when results are understood,
+      frustration when
+      things don't go as planned. The feedback provides reassurance. Lack of feedback makes things
+      unsettling. Feedback
       is critical to good design.
-    - **Feedback** resolves expectations, is critical to learning and the development of skilled behavior.
+    - **Feedback** resolves expectations, is critical to learning and the development of skilled
+      behavior.
 3. Reflective Level
     - conscious cognition. Deep understanding, reasoning, and conscious decision-making.
-    - Deep and slow. Occurs after events, looking back and evaluating circumstances. Can do causal analysis, make
+    - Deep and slow. Occurs after events, looking back and evaluating circumstances. Can do causal
+      analysis, make
       predictions. Intertwined with emotional systems.
 
-Designers need all three levels, but **reflection** is the most important. It is conscious and is the level of agency.
-Produces memories. It is reflection that drives us to recommend a product. May be more important than reality.
+Designers need all three levels, but **reflection** is the most important. It is conscious and is
+the level of agency.
+Produces memories. It is reflection that drives us to recommend a product. May be more important
+than reality.
 
-Need all three. Behavioral level is th home of interaction and expectation-based emotions. Understanding happens from
+Need all three. Behavioral level is th home of interaction and expectation-based emotions.
+Understanding happens from
 combo of behavioral and reflective. Enjoyment requires all three.
 
 ### 7 Stages of Action + 3 Levels of Processing
 
-Completion immersion in an activity is called **flow**. People lose track of time and become one with their task. Proper
-level of difficulty. Behavioral level creates a powerful set of emotional responses. Subconscious expectations
-established by execution side of action cycle sets up emotional states dependent upon expectations. This impacts our
-feelings. Too easy of tasks cause boredom and too difficult causes frustration. **Flow** is when something is just
+Completion immersion in an activity is called **flow**. People lose track of time and become one
+with their task. Proper
+level of difficulty. Behavioral level creates a powerful set of emotional responses. Subconscious
+expectations
+established by execution side of action cycle sets up emotional states dependent upon expectations.
+This impacts our
+feelings. Too easy of tasks cause boredom and too difficult causes frustration. **Flow** is when
+something is just
 right.
 
 ![img.png](processing-levels-stages-of-action-chart.png)
 
 ### People as storytellers
 
-People look for causes/events to form stories. resonate with our experiences. allows us to form generalizations.
+People look for causes/events to form stories. resonate with our experiences. allows us to form
+generalizations.
 
-conceptual models are a form of story, an explanation. They are essential to understanding what is happening. Faulty
+conceptual models are a form of story, an explanation. They are essential to understanding what is
+happening. Faulty
 models lead to frustrations.
 
-Delayed feedback causes bad models. Should let the user know and provide the longest possible time to respond. When
-there is delayed feedback, people use their own conceptual model of the world to determine the perceived causal
+Delayed feedback causes bad models. Should let the user know and provide the longest possible time
+to respond. When
+there is delayed feedback, people use their own conceptual model of the world to determine the
+perceived causal
 relationship. It doesn't matter if the relationship actually exists.
 
 ### Learned Helplessness
 
-People experience repeated failure and decide they are helpless to complete the task - they stop trying. People blame
+People experience repeated failure and decide they are helpless to complete the task - they stop
+trying. People blame
 themselves.
 
 ### Positive Psychology
 
-To fail is to learn. Replace failure with learning experiences. Designers need to fail to make new understanding. Should
+To fail is to learn. Replace failure with learning experiences. Designers need to fail to make new
+understanding. Should
 not be too safe.
 
 For designers:
@@ -475,10 +583,14 @@ For designers:
 5. Assume that people will be partially correct
 6. Think positively for yourself and the people you interact with
 
-Eliminate the term human error and instead think of it is as a collaboration. Designers should attempt to minimize the
-chance of inappropriate actions in the first place - using affordances, signifiers, good mapping, and constraints to
-guide the actions. Maximize the chance that users can discover and fix bad actions. Use good feedback and have a simple,
-clear conceptual model. People should understand what has happened, system state, and what action is appropriate.
+Eliminate the term human error and instead think of it is as a collaboration. Designers should
+attempt to minimize the
+chance of inappropriate actions in the first place - using affordances, signifiers, good mapping,
+and constraints to
+guide the actions. Maximize the chance that users can discover and fix bad actions. Use good
+feedback and have a simple,
+clear conceptual model. People should understand what has happened, system state, and what action is
+appropriate.
 
 People are not machines and are not precise.
 
@@ -496,24 +608,33 @@ Checklist:
 
 **Feedforward** and **Feedback**:
 
-* Feedforward - Information that answers questions of execution. What are the alternatives? What can I do? How do I do
+* Feedforward - Information that answers questions of execution. What are the alternatives? What can
+  I do? How do I do
   it?
-* Feedback - Aids in understanding what has happened. Is this okay? What does it mean? What happened?
+* Feedback - Aids in understanding what has happened. Is this okay? What does it mean? What
+  happened?
 
 Build feedforward through use of signifiers, constraints, mapping. Make a good conceptual model.
 
-Both feedback & feedforward need presented in a way that is readily interpreted by users of the system.
+Both feedback & feedforward need presented in a way that is readily interpreted by users of the
+system.
 
 7 principles of design:
 
-1. Discoverability - it is possible to determine what actions are possible and the current state of the device.
-2. Feedback - full and continuous information about the results of actions and the current state of hte product is
+1. Discoverability - it is possible to determine what actions are possible and the current state of
+   the device.
+2. Feedback - full and continuous information about the results of actions and the current state of
+   hte product is
    available and understandable.
-3. Conceptual model - design projects all info needed for a good conceptual model of the system, creates a feeling of
+3. Conceptual model - design projects all info needed for a good conceptual model of the system,
+   creates a feeling of
    control. conceptual model should enhance discoverability and evaluation of results.
 4. Affordance - proper affordances exist to make actions possible
-5. Signifiers - good use of signifiers ensures discoverability and that feedback is well communicated
-6. Mappings - relationship b/w controls and actions is clear - spatial layout and temporal continuity.
-7. Constraints - physical, logical, semantic, and cultural constraints to guide actions and interpretation.
+5. Signifiers - good use of signifiers ensures discoverability and that feedback is well
+   communicated
+6. Mappings - relationship b/w controls and actions is clear - spatial layout and temporal
+   continuity.
+7. Constraints - physical, logical, semantic, and cultural constraints to guide actions and
+   interpretation.
 
 Don't criticize until you can do better.
