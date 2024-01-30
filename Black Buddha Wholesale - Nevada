@@ -1,0 +1,46 @@
+# Black Buddha Wholesale App - Nevada
+
+This document outlines expectations, agreements, and requirements for the Black Buddha Wholesale Application that will be deployed for use by dispensaries and partners in Nevada.
+
+Last Updated: _01/29/24_.
+
+---
+
+## Requirements
+1. [ ] Database layer for persistence of orders, products, customer information
+2. [ ] Web front end publicly hosted
+    1. [ ] Domain
+    2. [ ] Hosting
+2. [ ] CSV File generation to capture order information
+3. [ ] Email capability to provide notification of orders, w/ attached .csv
+    1. [ ] Send to Troy/BB
+    2. [ ] Send to customer
+4. [ ] File storage using OneDrive, Dropbox, Google Drive, or similar service to store CSV Files
+5. [ ] Authentication flow for users
+    1. [ ] Account Creation
+    2. [ ] Account Login
+    3. [ ] Account Management
+        1. [ ] Modify email
+        2. [ ] Modify phone
+        3. [ ] Modify name
+        4. [ ] Modify address
+6. [ ] Admin dashboard for Black Buddha to manage application
+    1. [ ] Add new products
+    2. [ ] Remove products
+    3. [ ] Edit product name, description, price.
+    4. [ ] View all orders
+        1. [ ] Status toggle for resolved/pending/canceled status of order.
+7. [ ] User dashboard for customers:
+    1. [ ] Add new order from existing products
+        1. [ ] Form with creation data entry
+        2. [ ] Confirmation page
+        3. [ ] Next step page
+        4. [ ] Emails sent
+    2. [ ] View order history
+        1. [ ] View individual orders and details
+
+---
+
+## Points to Clarify
+1. Desired domain name?
+2. Hosting strategy?
