@@ -88,17 +88,23 @@ out the stubs.
 
 ### Personas
 
-Create characters to represent our users. Give names, dates, details. Simulate their thoughts,
-interruptions, things they like, dislike, habits.
+Include user context.
+
+Create actual **characters** to represent our users. Give names, dates, details. Simulate their
+thoughts, interruptions, things they like, dislike, habits.
 
 Create 3-4 different personas. Each should be different people representing different elements of
-our task, the full range of people that we care about.
+our task.
 
-We want to emphasize with each persona.
+Create personas for the full range of people that we care about.
+
+We want to **emphasize** with each persona and mentally simulate them.
 
 ### User Profiles
 
-While personas give us a small number of characters, we might want more peoples.
+Include user context. Delineate the target audience.
+
+Think about the whole design space, extend personas.
 
 Define variables for users and possibilities within each. Things like experience, skill,
 motivation, tech literacy, usage frequency, etc.
@@ -106,9 +112,12 @@ motivation, tech literacy, usage frequency, etc.
 Frequent users want efficiency, infrequent users need discoverability.
 
 Cannot design for everyone. but need to design for the actual users.
-
+Balance our design limitations within the full range of people.
 
 ### Timelines
+
+General, routine interactions. More attention to user feelings and thoughts than the specifics of
+the workflows.
 
 Stretch persona over time. Journey maps (but narrower).
 
@@ -117,18 +126,27 @@ Analyze initial motivations for starting the task, and see what they do next.
 What actions lead up to the task and how are they feeling? How would each design decision influence
 their experience?
 
+Lets us explore more personal differences and advantages of designs for each user.
+
 ### Scenarios/Storyboards
 
-Storyboards. Identify what is going to happen in a particular scenario.
+Include the entire task context. Includes time. Capture edge cases more easily.
+
+**Specific** person interacting in a particular way with a particular set of events happening.
+
+Storyboards. Identify what is going to happen in a particular scenario. One particular task.
 
 Specific person interacting in a specific way with specific coming up.
-
 Storyboards can be a demonstration/mockup of how to use the finished product.
 
 ### User Modeling
 
+Task analysis. General workflows. Includes time.
+
 How does a user achieve each of their goals in each interface? Each alternative? Do cognitive
 analysis to understand what they are thinking about.
+
+How easy are goals to achieve across different designs?
 
 Unlike personas, which are personal and designed for empathy, user modeling is objective and
 intended to be measurable.
