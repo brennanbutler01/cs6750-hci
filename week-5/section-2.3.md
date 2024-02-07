@@ -1,3 +1,15 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Section 2.3 - Direct Manipulation](#section-23---direct-manipulation)
+  - [Good Interfaces](#good-interfaces)
+  - [Distance](#distance)
+  - [Invisible Interfaces](#invisible-interfaces)
+  - [Invisible By Design](#invisible-by-design)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # Section 2.3 - Direct Manipulation
 
 ## Good Interfaces

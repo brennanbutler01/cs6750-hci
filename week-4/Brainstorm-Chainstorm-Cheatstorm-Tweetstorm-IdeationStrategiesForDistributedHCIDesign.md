@@ -1,3 +1,19 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Brainstorm, Chainstorm, Cheatstorm, Tweetstorm: New Ideation Strategies for Distributed HCI Design](#brainstorm-chainstorm-cheatstorm-tweetstorm-new-ideation-strategies-for-distributed-hci-design)
+  - [Brainstorming](#brainstorming)
+    - [Brainstorming Limitations](#brainstorming-limitations)
+    - [Structuring Ideation](#structuring-ideation)
+      - [Social Configurations of Idea Generation Behavior](#social-configurations-of-idea-generation-behavior)
+    - [Opportunity finding](#opportunity-finding)
+    - [Ideation Techniques](#ideation-techniques)
+    - [Cheatstorming](#cheatstorming)
+    - [Stages of Chainstorming and Tweetstorming](#stages-of-chainstorming-and-tweetstorming)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # Brainstorm, Chainstorm, Cheatstorm, Tweetstorm: New Ideation Strategies for Distributed HCI Design
 
 **Cheatstorming** - Previously generated brainstorm ideas are delivered to targeted local contexts without the need for

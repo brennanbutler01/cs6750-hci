@@ -3,13 +3,16 @@
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
 - [Section 3.4 - Design Alternatives](#section-34---design-alternatives)
-    - [Design Mistakes](#design-mistakes)
-    - [Design Space](#design-space)
-    - [Individual Brainstorming](#individual-brainstorming)
-    - [Group Brainstorming](#group-brainstorming)
-    - [Fleshing out design ideas](#fleshing-out-design-ideas)
-        - [Personas](#personas)
-        - [User Profiles](#user-profiles)
+  - [Design Mistakes](#design-mistakes)
+  - [Design Space](#design-space)
+  - [Individual Brainstorming](#individual-brainstorming)
+  - [Group Brainstorming](#group-brainstorming)
+  - [Fleshing out design ideas](#fleshing-out-design-ideas)
+    - [Personas](#personas)
+    - [User Profiles](#user-profiles)
+    - [Timelines](#timelines)
+    - [Scenarios/Storyboards](#scenariosstoryboards)
+    - [User Modeling](#user-modeling)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

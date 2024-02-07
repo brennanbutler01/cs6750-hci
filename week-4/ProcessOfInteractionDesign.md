@@ -1,3 +1,27 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Process of Interaction Design](#process-of-interaction-design)
+  - [Interaction Design - What is it?](#interaction-design---what-is-it)
+  - [Four basic activities of interaction design](#four-basic-activities-of-interaction-design)
+  - [Three Characteristics of Interaction Design Process](#three-characteristics-of-interaction-design-process)
+  - [Identifying Users](#identifying-users)
+  - [Identifying Needs](#identifying-needs)
+  - [Generating Alternative Designs](#generating-alternative-designs)
+  - [Selecting among alternative designs](#selecting-among-alternative-designs)
+  - [Usability Engineering](#usability-engineering)
+  - [Lifecycle Models](#lifecycle-models)
+  - [Software Lifecycles](#software-lifecycles)
+    - [Waterfall](#waterfall)
+    - [Spiral Lifecycle](#spiral-lifecycle)
+    - [Rapid Application Development (RAD)](#rapid-application-development-rad)
+  - [Lifecycle Models in HCI](#lifecycle-models-in-hci)
+    - [Star Lifecycle Model](#star-lifecycle-model)
+    - [Usability Engineering Lifecycle](#usability-engineering-lifecycle)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # Process of Interaction Design
 
 ## Interaction Design - What is it?
