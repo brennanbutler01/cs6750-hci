@@ -1,3 +1,17 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [2.4 Human Abilities](#24-human-abilities)
+  - [Visual Perception](#visual-perception)
+  - [Auditory Perception](#auditory-perception)
+  - [Haptic Perception](#haptic-perception)
+  - [Memory](#memory)
+  - [Learning](#learning)
+  - [Cognitive Load](#cognitive-load)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # 2.4 Human Abilities
 
 Psychology of humans and what they can do:

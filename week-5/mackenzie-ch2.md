@@ -1,3 +1,18 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Mackenzie Ch2](#mackenzie-ch2)
+  - [Time Scale of Human Action](#time-scale-of-human-action)
+  - [Human Factors](#human-factors)
+  - [Sensors](#sensors)
+    - [Vision (Sight)](#vision-sight)
+    - [Hearing (Audition)](#hearing-audition)
+    - [Touch (Tactition)](#touch-tactition)
+    - [Smell (olfaction) and Taste (gustation)](#smell-olfaction-and-taste-gustation)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # Mackenzie Ch2
 
 ## Time Scale of Human Action
@@ -25,3 +40,29 @@ In human factor model, human monitors state of computer through sensors and disp
 ![human factor model](human-factor-view.png)
 
 ## Sensors
+
+The 5 human senses.
+
+### Vision (Sight)
+80% of info comes through vision for most people.
+
+Properties:
+1. Frequency - leads to the perception of color. 
+2. Intensity - luminance of light, brightness
+3. Fixations and saccades - during fixations, eyes are stationary. Saccades are really quick.
+
+In HCI, check the scanpath or sequence of eye movements that occurs when users view a UI.
+
+### Hearing (Audition)
+
+Properties:
+1. Loudness - # of DB - sound pressure level
+2. Pitch - frequency
+3. Timbre - richness or brightness
+4. Envelope - way notes and harmonics build and transition over time from silent -> audible -> silent
+
+### Touch (Tactition)
+
+Part of the somatosensory system - sensory receptors for touch, temperature, pain and position.
+
+### Smell (olfaction) and Taste (gustation)
