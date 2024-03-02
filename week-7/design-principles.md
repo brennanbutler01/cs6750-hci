@@ -1,3 +1,27 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Design Principles](#design-principles)
+  - [Discoverability](#discoverability)
+  - [Simplicity](#simplicity)
+  - [Affordances](#affordances)
+    - [Affordance Vocabulary](#affordance-vocabulary)
+  - [Mapping](#mapping)
+  - [Perceptibility](#perceptibility)
+  - [Consistency](#consistency)
+  - [Flexibility](#flexibility)
+  - [Equity](#equity)
+  - [Ease and Comfort](#ease-and-comfort)
+  - [Structure](#structure)
+  - [Constraints](#constraints)
+  - [Norman's Four Constraints](#normans-four-constraints)
+  - [Tolerance](#tolerance)
+  - [Feedback](#feedback)
+  - [Documentation](#documentation)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # Design Principles
 
 Four main sets of design principles:

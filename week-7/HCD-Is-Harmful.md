@@ -1,3 +1,18 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Human Centered Design Considered Harmful](#human-centered-design-considered-harmful)
+  - [Activities vs. Tasks](#activities-vs-tasks)
+  - [Who adapts? Tech or people?](#who-adapts-tech-or-people)
+  - [Human Centered vs. Activity Centered](#human-centered-vs-activity-centered)
+  - [Tools define the activity](#tools-define-the-activity)
+  - [Why is HCD harmful?](#why-is-hcd-harmful)
+  - [Static screens vs dynamic sequences](#static-screens-vs-dynamic-sequences)
+  - [Too much listening to users](#too-much-listening-to-users)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # Human Centered Design Considered Harmful
 
 Paradox of understanding users—if you need to design for everyone, can we design for anyone?
