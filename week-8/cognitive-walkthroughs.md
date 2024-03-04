@@ -1,3 +1,38 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Cognitive Walkthrough—method for theory-based evaluation](#cognitive-walkthroughmethod-for-theory-based-evaluation)
+  - [Application of cognitive theory](#application-of-cognitive-theory)
+  - [Theory of learning by exploration](#theory-of-learning-by-exploration)
+    - [Link between Goals and Actions](#link-between-goals-and-actions)
+  - [Management of goal Structure](#management-of-goal-structure)
+    - [Goal Structure Generation](#goal-structure-generation)
+    - [Generating goals for actions](#generating-goals-for-actions)
+    - [Interpreting Feedback](#interpreting-feedback)
+    - ["And then" goal structures](#and-then-goal-structures)
+  - [Cognitive Walkthrough Procedure](#cognitive-walkthrough-procedure)
+    - [Phase 1: Preparation](#phase-1-preparation)
+      - [Choose Tasks to Analyze](#choose-tasks-to-analyze)
+      - [Provide task description](#provide-task-description)
+      - [Determine action sequence](#determine-action-sequence)
+      - [Identify the anticipated user population](#identify-the-anticipated-user-population)
+      - [Describe user's initial goals](#describe-users-initial-goals)
+    - [Phase 2: Evaluation](#phase-2-evaluation)
+      - [Goal structure for current step](#goal-structure-for-current-step)
+      - [Choosing and performing the action](#choosing-and-performing-the-action)
+      - [Modifications of the goal structure](#modifications-of-the-goal-structure)
+  - [Comparison with Other Methods](#comparison-with-other-methods)
+    - [GOMS/CCT](#gomscct)
+    - [PUM](#pum)
+    - [Comparisons with cognitive walkthrough](#comparisons-with-cognitive-walkthrough)
+    - [Problems with executable simulations](#problems-with-executable-simulations)
+  - [Other walkthroughs](#other-walkthroughs)
+  - [Iterative design](#iterative-design)
+  - [Differences with other methods:](#differences-with-other-methods)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # Cognitive Walkthrough—method for theory-based evaluation
 
 Cognitive walkthrough aims to provide a new tool for usability early in the design process.

@@ -26,7 +26,7 @@ ideating team.
 
 ## Brainstorming
 
-Obsborn's three phases of brainstorming:
+Osborn's three phases of brainstorming:
 
 1. Fact-Finding - Problem-definition and preparation.
 2. Idea-Finding - Idea-production and idea-development. Select and combine tentative ideas.
@@ -34,7 +34,7 @@ Obsborn's three phases of brainstorming:
 
 Brainstorming might be less effective than individual idea generation.
 
-Obsorn's guidelines and rules were intended to make brainstorming more effective for groups, and includes principles
+Osborn's guidelines and rules were intended to make brainstorming more effective for groups, and includes principles
 like going wild with ideas and avoiding judging ideas.
 
 Brainstorming might just be a supplement to individual ideation and not a replacement.
@@ -76,7 +76,7 @@ When you have a topic for which to design, can:
 
 1. Sketch designs and goals
 2. Analyze aspects of design and make observations - note them.
-3. Create a matrix and and rank them.
+3. Create a matrix  and rank them.
 
 Benefits of this process:
 

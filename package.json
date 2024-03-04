@@ -7,5 +7,7 @@
   "license": "MIT",
   "devDependencies": {
     "doctoc": "^2.2.1"
+  },
+  "dependencies": {
   }
 }

@@ -134,7 +134,7 @@ Linear model. Each step must be finished before the next begins.
 Requirements may change over time, but this is a linear model and not flexible. No opportunity to review and evaluate
 with users.
 
-**Linear** with intendned functionality driving the development.
+**Linear** with intended functionality driving the development.
 
 1. Requirement Analysis
 2. Design

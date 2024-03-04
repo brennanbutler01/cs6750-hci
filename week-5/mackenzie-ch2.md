@@ -34,7 +34,7 @@
 
 ## Time Scale of Human Action
 
-Newell's 4 band - each with 3 levels within:
+Newel's 4 band - each with 3 levels within:
 
 1. Biological Band
 2. Cognitive Band - research on selection techniques, menu design, feedback, text entry. time from 200ms - 24s
@@ -105,7 +105,7 @@ position.
 
 ### Voice
 
-Through speaking, move voice by moving vocal chords.
+Through speaking, move voice by moving vocal cords.
 
 NVVI - Non Verbal Voice Interaction
 
@@ -133,10 +133,10 @@ Perception and ambiguity - human ability to develop multiple interpretations of 
 Illusions of visual and other stimuli.  Phantom limbs after amputation.
 
 ### Cognition
-Human process of conscious thinking.  Hard to study since it is inside of the brain.
+Human process of conscious thinking.  Hard to study since it is inside the brain.
 
 ### Memory
-Information storage, retainment, recall. 
+Information storage, retention, recall. 
 
 Long term memory - experiences from days or decades ago. 
 
