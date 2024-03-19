@@ -18,3 +18,4 @@ Notes for CS6750 - Human Computer Interaction
 7. [week-7](week-7/readme.md)
 8. [week-8](week-8/readme.md)
 9. [week-10](week-10/readme.md)
+10. [week-11](week-11/readme.md) 
