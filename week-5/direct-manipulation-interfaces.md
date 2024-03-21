@@ -30,11 +30,11 @@ Direct manipulation is good interface design.
 
 ## Shneiderman's principles of direct manipulation
 
-3 Properties of direct manipulation:
+Three Properties of direct manipulation:
 
 1. Continuous representation of the object of interest.
 2. Physical actions/labeled button presses.
-3. Rapid incremental and reversible operations - immediate feedback.
+3. Rapid incremental and reversible operations—immediate feedback.
 
 6 Virtues of direct manipulation:
 
@@ -44,24 +44,23 @@ Direct manipulation is good interface design.
 4. Error messages are not needed.
 5. Users can immediately get feedback to see if they are furthering their goals or change the
    direction.
-6. User anxiety is reduced because system is comprehensible and actions are reversible.
+6. User anxiety is reduced because the system is comprehensible and actions are reversible.
 
-## Two Aspects of Directness : Distance and Engagement
+## Two Aspects of Directness: Distance and Engagement
 
 Two distinct aspects of directness:
 
-1. **Distance** - Short distance b/w thoughts and physical requirements of the system under use
-2. **Engagement** - Qualitative feeling of engagement - direct manipulation of the object of
-   interest.
+1. **Distance—**Short distance b/w thoughts and physical requirements of the system under use
+2. **Engagement—**Qualitative feeling of engagement—direct manipulation of the object
     - language metaphor: interface is a language medium for the user and system to have a
       conversation
-    - model-world metaphor: interface is world where user can act and changes state in response to
+    - model-world metaphor: interface is a world where user can act and change state in response to
       user actions. no
       intermediary b/w user and the world. users act directly on the task domain themselves.
 
 ### Distance
 
-Directness is not a property of the interface alone - involves relationship b/w task and the way it
+Directness is not a property of the interface alone—involves relationship b/w task and the way it
 can be accomplished
 in the interface.
 
@@ -155,7 +154,7 @@ Dependent on I/O technology.
 
 ## Direct Engagement
 
-Happens when user experiences direct involvement, no intermediary.
+Direct EngagementHappens when a user experiences direct involvement, no intermediary.
 
 Need:
 

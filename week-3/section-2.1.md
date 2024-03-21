@@ -68,14 +68,14 @@ behaviors and outcomes, not underlying cognition. This is just looking at behavi
 not caring about why.
 
 Predictor view goes back to cognitive - perception, memory, creativity and other things going within
-mind. Kant and Descartes worked on this. started picking up in the 1950s as foil to behaviorism.
+the mind. Kant and Descartes worked on this. started picking up in the 1950s as a foil to behaviorism.
 cognitive science. care about what the user is thinking. what do they predict the outcome to be, the
 right action to take? The user is the one doing the predicting. we need to understand how they
 predict the interface will behave.
 
-Participant view goes back to the functionalism/systems psychology - human behaviors within broader
+Participant view goes back to the functionalism/systems psychology—human behaviors within broader
 systems, contexts. uniquely cares about user environment. user/interfaces are participants within
-larger cognitive system.
+a larger cognitive system.
 
 ## Using User models to evaluate interfaces
 

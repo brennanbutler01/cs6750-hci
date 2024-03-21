@@ -34,7 +34,7 @@
 
 ## Time Scale of Human Action
 
-Newel's 4 band - each with 3 levels within:
+Newel's four bands—each with 3 levels within:
 
 1. Biological Band
 2. Cognitive Band - research on selection techniques, menu design, feedback, text entry. time from 200ms - 24s
@@ -42,24 +42,27 @@ Newel's 4 band - each with 3 levels within:
 4. Social Band - days/weeks/months. workplace habits, groupware usage, social networking, online dating, user style and
    preferences.
 5. Historical band - years - thousands of years.
-6. Evolutionary band - 10000s to millions of years.
+6. Evolutionary band—10000s to millions of years.
 
-Most common dependent variable in experimental research is time, time it takes to do a task.
+The most common dependent variable in experimental research is time, time it takes to do a task.
 
-HCI Research is high level and low level. At the low level, it is quantitative.At the high level (social), it is
+HCI Research is high level and low level.
+At the low level, it is quantitative. 
+At the high level (social), it is
 qualitative. At the social level, researchers use interviews, observation, case studies, etc.
 
 ## Human Factors
 
 Processor model (i/o) vs human factor model (human as a machine).
 
-In human factor model, human monitors state of computer through sensors and displays and controls the state of computer
+In the human factor model,
+human monitors the state of computer through sensors and displays and controls the state of computer
 through responders and controls.
 ![human factor model](human-factor-view.png)
 
 ## Sensors
 
-The 5 human senses.
+The five human senses.
 
 ### Vision (Sight)
 
@@ -67,8 +70,8 @@ The 5 human senses.
 
 Properties:
 
-1. Frequency - leads to the perception of color.
-2. Intensity - luminance of light, brightness
+1. Frequency—leads to the perception of color.
+2. Intensity—luminance of light, brightness
 3. Fixations and saccades - during fixations, eyes are stationary. Saccades are really quick.
 
 In HCI, check the scanpath or sequence of eye movements that occurs when users view a UI.
@@ -79,8 +82,8 @@ Properties:
 
 1. Loudness - # of DB - sound pressure level
 2. Pitch - frequency
-3. Timbre - richness or brightness
-4. Envelope - way notes and harmonics build and transition over time from silent -> audible -> silent
+3. Timbre—richness or brightness
+4. Envelope—way notes and harmonics build and transition over time from silent -> audible -> silent
 
 ### Touch (Tactition)
 
@@ -128,7 +131,7 @@ Perception studied in psycho-physics - examining relationship between human perc
 
 Measure the just noticeable difference (JND) in stimulus and see how it is perceived different.
 
-Perception and ambiguity - human ability to develop multiple interpretations of the same sensory input. 
+Perception and ambiguity—human ability to develop multiple interpretations of the same sensory input. 
 
 Illusions of visual and other stimuli.  Phantom limbs after amputation.
 
@@ -138,21 +141,24 @@ Human process of conscious thinking.  Hard to study since it is inside the brain
 ### Memory
 Information storage, retention, recall. 
 
-Long term memory - experiences from days or decades ago. 
+Long-term memory—experiences from days or decades ago. 
 
-Memory, like a computer, is split into a declarative/explicit information about events in time/objects in external world, and an implicit/procedural area that stores information about how to use objects and do things.
+Memory, like a computer, 
+is split into declarative/explicit information about events in time/objects in the external world, 
+and an implicit/procedural area that stores information about how to use objects and do things.
 
 Within the long-term memory, there is an area for short-term memory and working-memory. 
 
-Working-memory: immediately available for access, but is small (only about 7 units).
+Working-memory: immediately available for access, but is small (only about seven units).
 
 ## Language
 Language is available to most humans. Speech without effort. Writing is more recent.
 
-Study language through corpus of text created.
+Study language through corpus of the text created.
 
 ### Redundancy in Language
-reduce redundancy for better understanding, but humans are good at filling in the gaps in native language. We use what we inherently know.
+Reduce redundancy for better understanding, but humans are good at filling in the gaps in native language.
+We use what we inherently know.
 
 ### Entropy in Language
 Entropy is uncertainty about forthcoming letters, words, phrases, ideas.
@@ -162,15 +168,18 @@ Human Performance happens when sensors, brain, responders all work together to a
 
 ### Reaction Time
 
-Human performance is manifested in simple reaction time - the delay between the occurrence of a stimulus and the initiation of a response.
+Human performance is manifested in simple reaction time—the delay between the occurrence of a stimulus and the initiation of a response.
 
-Do physical matching, name matching (change appearance), class matching (both letters or both digits) and choice reaction (n stimuli - 1:1 correspondence between stimuli and response)
+Do physical matching, name matching (change appearance), 
+class matching (both letters or both digits) and choice reaction
+(n stimuli—1:1 correspondence between stimuli and response)
 
 ### Visual Search
-Visual search - scan collection if items to find the one that is desired.
+Visual search - scan collection of items to find the one that is desired.
 
 ### Attention
-Human ability to remember and to attend is limited. Attention is the human property that occurs when a person who is attending to one thing cannot attend to another. 
+Human ability to remember and to attend is limited.
+Attention is the human property that occurs when a person attending to one thing cannot attend to another. 
 
 Two themes:
 1. Divided Attention - process of concentration on and doing more than one task a time.

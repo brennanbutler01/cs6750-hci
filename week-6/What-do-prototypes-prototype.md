@@ -1,13 +1,13 @@
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+**Table of Contents** *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
 - [What do prototypes prototype?](#what-do-prototypes-prototype)
   - [Problem with Prototypes](#problem-with-prototypes)
   - [Prototypes use over form](#prototypes-use-over-form)
   - [Problems with Current Terminology](#problems-with-current-terminology)
   - [Model](#model)
-    - [3 dimensions of a model:](#3-dimensions-of-a-model)
+    - [Three dimensions of a model:](#3-dimensions-of-a-model)
       - [Role Prototypes](#role-prototypes)
       - [Look and Feel Prototypes](#look-and-feel-prototypes)
       - [Implementation Prototypes](#implementation-prototypes)
@@ -51,7 +51,7 @@ Artifact - interactive system that is being designed
 
 Prototype—representation of a design idea
 
-### 3 dimensions of a model:
+### Three dimensions of a model:
 
 1. Role - questions about the function of artifact in user's life
 2. Look and feel—how the system looks and how the user feels when using
